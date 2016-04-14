@@ -7,32 +7,32 @@ Direct3D:
     VRAM:     1972 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\System.Data.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\System.Data.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Elixis.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\Elixis.dll into Unity Child Domain
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\ES2.dll (this message is harmless)
-Loading C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\ES2.dll into Unity Child Domain
-- Completed reload, in  0.060 seconds
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Elixis.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\Elixis.dll into Unity Child Domain
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\ES2.dll (this message is harmless)
+Loading C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\ES2.dll into Unity Child Domain
+- Completed reload, in  0.228 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\System.dll (this message is harmless)
 Menu
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
@@ -41,24 +41,32 @@ Menu
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
-Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\Space Navigator Experiment\Space Navigator_Data\Managed\System.Xml.dll (this message is harmless)
-UnloadTime: 0.245917 ms
+sendback
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Platform assembly: C:\Users\Jayson Boubin\Desktop\AFIT work\SpaceNavigatorExperimentDirectory\Space Navigator_Data\Managed\System.Xml.dll (this message is harmless)
+UnloadTime: 1.293632 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 372.
-Total: 0.552595 ms (FindLiveObjects: 0.009853 ms CreateObjectMapping: 0.008210 ms MarkObjects: 0.169966 ms  DeleteObjects: 0.007389 ms)
+Total: 0.585439 ms (FindLiveObjects: 0.018474 ms CreateObjectMapping: 0.008621 ms MarkObjects: 0.187209 ms  DeleteObjects: 0.010263 ms)
 
-0
+ISAMenu
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
-new level
+1 1
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
-UnloadTime: 0.216768 ms
+UnloadTime: 0.700803 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 376.
-Total: 0.490192 ms (FindLiveObjects: 0.009032 ms CreateObjectMapping: 0.011084 ms MarkObjects: 0.172429 ms  DeleteObjects: 0.002463 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.536173 ms (FindLiveObjects: 0.013548 ms CreateObjectMapping: 0.011084 ms MarkObjects: 0.179408 ms  DeleteObjects: 0.007800 ms)
+
+ISAMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
